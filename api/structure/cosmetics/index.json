@@ -1,0 +1,1 @@
+{"id":"cosmetics","title":"화장품","type":"folder","description":"화장품 관련 자료 모음","children":[{"id":"recipes","type":"folder","title":"수제 레시피","description":"물, 오일, 향료로 만드는 저자극 수제 화장품 포뮬러 모음","color":"rose","itemCount":4,"path":"cosmetics/recipes"}],"path":"cosmetics","breadcrumb":[{"id":"root","title":"Home","path":""},{"id":"cosmetics","title":"화장품","path":"cosmetics"}]}
